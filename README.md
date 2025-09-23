@@ -6,23 +6,22 @@
      Ubunto : Extensão Dash to Panel de cherlesg99 para deixar a parte de baixo parecido com o windows
 -->
 ```
-      ___           ___           ___       ___       ___     
-     /\__\         /\  \         /\__\     /\__\     /\  \    
-    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
- /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
- \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-     \/__/         \/__/         \/__/     \/__/     \/__/
+ /$$   /$$           /$$ /$$          
+| $$  | $$          | $$| $$          
+| $$  | $$  /$$$$$$ | $$| $$  /$$$$$$ 
+| $$$$$$$$ /$$__  $$| $$| $$ /$$__  $$
+| $$__  $$| $$$$$$$$| $$| $$| $$  \ $$
+| $$  | $$| $$_____/| $$| $$| $$  | $$
+| $$  | $$|  $$$$$$$| $$| $$|  $$$$$$/
+|__/  |__/ \_______/|__/|__/ \______/                                                                    
 
 Welcome to my page!
 ```
 ###
-<p>Welcome to my page! </br> I'm Matheus, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>São Paulo, Brazil</b>. </p>
 
+<p>I'm Matheus, Fullstack developer from <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="13"/> <b>São Paulo, Brazil</b>. </p>
+
+<hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matheusbrunheroto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusbrunheroto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=panda&hide_border=false" height="150" alt="languages graph"  />
@@ -52,7 +51,7 @@ Welcome to my page!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-brunheroto-b6763626b/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/matheus-brunheroto/badges#credly)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Matheus%20Brunheroto)
-[![YouTube](https://a11ybadges.com/badge?logo=youtube)](https://www.youtube.com/channel/UCC-GraLfDvHnm6o3FTu00lQ)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCC-GraLfDvHnm6o3FTu00lQ)
 
 
 
