@@ -15,9 +15,20 @@
 | $$  | $$|  $$$$$$$| $$| $$|  $$$$$$/
 |__/  |__/ \_______/|__/|__/ \______/                                                                    
 
-Welcome to my page!
+~ $ Welcome to my page! I'm Matheus, *** developer from São Paulo, Brazil
 ```
 <hr>
+
+```
+┃  ┏━┃┏━ ┏━┛┃ ┃┏━┃┏━┛┏━┛┏━┛
+┃  ┏━┃┃ ┃┃ ┃┃ ┃┏━┃┃ ┃┏━┛━━┃
+━━┛┛ ┛┛ ┛━━┛━━┛┛ ┛━━┛━━┛━━┛   
+Languages I'm experienced with
+
+[x] - C++
+Welcome to my page! I'm Matheus, *** developer from São Paulo, Brazil
+```
+
 <p>I'm Matheus, *** developer from <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="13"/> <b>São Paulo, Brazil</b>. </p>
 
 ###
