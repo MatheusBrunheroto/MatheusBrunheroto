@@ -22,7 +22,9 @@ Welcome to my page! I'm Matheus, an aspiring pentester from São Paulo, Brazil
 --/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--
 
 About me:
-I have been programming since 2022 and am currently working my way into the field of cybersecurity. I am passionate about Linux and have a strong interest in operational systems, low-level programming languages, computer networks, back-end development and cybersecurity.
+I have been programming since 2022 and am currently working my way into the field of cybersecurity.
+I am passionate about Linux and have a strong interest in operational systems, low-level programming languages,
+computer networks, back-end development and cybersecurity.
 
 
 --/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--
