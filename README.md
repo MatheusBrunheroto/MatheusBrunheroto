@@ -17,13 +17,12 @@
 | $$  | $$|  $$$$$$$| $$| $$|  $$$$$$/
 |__/  |__/ \_______/|__/|__/ \______/                                                                    
 
-Welcome to my page! I'm Matheus, *** developer from São Paulo, Brazil
+Welcome to my page! I'm Matheus, an aspiring pentester from São Paulo, Brazil
 
 --/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--
 
 About me:
-Programming since 2022, working my way through cybersecurity. I really like Linux and
-I'm into back-end, low-level languages, Linux, computer networks and cibersecurity. 
+I have been programming since 2022 and am currently working my way into the field of cybersecurity. I am passionate about Linux and have a strong interest in operational systems, low-level programming languages, computer networks, back-end development and cybersecurity.
 
 
 --/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--/\/--
