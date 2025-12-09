@@ -37,6 +37,7 @@ Languages I have experience with:
 [] - Python
 [] - Rust
 [] - Golang
+[] - Java
 [] - Bash
 ```
 
